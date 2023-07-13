@@ -2,7 +2,7 @@
 
 <h2> ☁ DevOps Projects</h2>
   
-- [Doggy Website](https://github.com/asafii99/Final-Project)
+- [Doggy Website Deployment](https://github.com/asafii99/Final-Project)
 - [AKS Cluster Deployment](https://github.com/asafii99/AKS-Deployment)
 
 <h2>📃 Certifications</h2>
